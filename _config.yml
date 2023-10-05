@@ -23,6 +23,8 @@ email: clarabelitz@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Clara Belitz, PhD student in Information Science
   at University of Illinois Urbana-Champaign.
+  ![headshot](/assets/img/headshot.jpg){:class="img-responsive"}
+
 domain: cbelitz.github.io
 # baseurl:  cbelitz.github.io # the subpath of your site, e.g. /blog
 url: https://clarabelitz.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,6 +35,8 @@ github_username:  cbelitz
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+include:
+  - "assets"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
