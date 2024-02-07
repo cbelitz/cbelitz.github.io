@@ -21,7 +21,7 @@ L. Jiang, **C. Belitz**, N. Bosch
 Proceedings of the 14th International Conference on Learning Analytics & Knowledge (LAK '24) [DOI](https://doi.org/10.1145/3636555.3636868) 
 
 [Bridging Informational Divides: A Community-Centered Analysis of “Public
-Safety” Surveillance Technology](/assets/papers/alt-chi-24-v2.pdf)
+Safety” Surveillance Technology](/assets/papers/alt-chi-24-in-press.pdf)
 G. Balasubramaniam\*, **C. Belitz**\*, A.S. Chan (*indicates equal contributions)
 CHI EA '23: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems
 
