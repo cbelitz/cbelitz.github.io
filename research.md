@@ -14,21 +14,21 @@ _Journal of the Association for Information Science and Technology_, 74(6), 663-
 ### 2024
 [Hierarchical dependencies in classroom settings influence algorithmic bias metrics](/assets/papers/belitz-inpress-HJENZKMQ.pdf)
 **C. Belitz**, H. Lee, N. Nasiar, S. E. Fancsali, S. Ritter, H. Almoubayyed, R. S. Baker, J. Ocumpaugh, N. Bosch
-Proceedings of the 14th International Conference on Learning Analytics & Knowledge (LAK '24)
+_Proceedings of the 14th International Conference on Learning Analytics & Knowledge (LAK '24)_, pp 210–218. [DOI](https://doi.org/10.1145/3636555.3636869)
 
 [Synthetic dataset generation for fairer unfairness research](/assets/papers/jiang-inpress-MV95QAR8.pdf)
 L. Jiang, **C. Belitz**, N. Bosch
-Proceedings of the 14th International Conference on Learning Analytics & Knowledge (LAK '24) [DOI](https://doi.org/10.1145/3636555.3636868) 
+_Proceedings of the 14th International Conference on Learning Analytics & Knowledge (LAK '24)_,  pp 200–209. [DOI](https://doi.org/10.1145/3636555.3636868) 
 
 [Bridging Informational Divides: A Community-Centered Analysis of “Public
-Safety” Surveillance Technology](/assets/papers/alt-chi-24-in-press.pdf)
+Safety” Surveillance Technology](/assets/papers/alt-chi-147.pdf)
 G. Balasubramaniam\*, **C. Belitz**\*, A.S. Chan (*indicates equal contributions)
-CHI EA '23: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems
+_Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA '24)_, Article No.: 550. [DOI](https://doi.org/10.1145/3613905.3644046)
 
 ### 2021
 [Automating procedurally fair feature selection in machine learning](/assets/papers/belitz-2021-fair-feature-selection.pdf)
 **C. Belitz**, L. Jiang, N. Bosch.
-_Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES '21)_, pp. 379-389 [DOI](https://dl.acm.org/doi/10.1145/3461702.3462585)
+_Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES '21)_, pp. 379-389. [DOI](https://dl.acm.org/doi/10.1145/3461702.3462585)
 
 - [Fair Feature Selection code](https://github.com/pnb/fairfs)
 
