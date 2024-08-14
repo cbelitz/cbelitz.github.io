@@ -9,7 +9,7 @@ I am primarily advised by [Dr. Nigel Bosch](https://pnigel.com) and am a member 
 I am also affiliated with Dr. Jana Diesner's [Social Computing Lab](http://jdiesnerlab.ischool.illinois.edu/)
 and Dr. Anita Chan's [Community Data Clinic](https://communitydata.illinois.edu/).
 
-In my free time, I enjoy playing sports, reading speculative fiction, baking, and spending time outside. 
+In my free time, I enjoy playing sports, reading speculative fiction, baking, community organizing, and spending time outside.
 I received my undergraduate degree in Computer Science and Mathematics from Bowdoin College in 2017. Before starting my PhD, I
 worked at a startup in Boston, first as a technical writer and then as a DevOps Engineer.
 
