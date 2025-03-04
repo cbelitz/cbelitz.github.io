@@ -11,6 +11,11 @@ Here you can find links to my past and ongoing research projects, as well as PDF
 _Journal of the Association for Information Science and Technology_, 74(6), 663-668 [DOI](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24643)
 
 ## Peer Reviewed Conference Proceedings
+### 2025
+[XAI reveals the causes of attention deficit hyperactivity disorder (ADHD) bias in student performance prediction](/assets/papers/lee-2025-8YM3NX5W.pdf)
+H. Lee, **C. Belitz**, N. Nasiar, N. Bosch
+_Proceedings of the 15th Learning Analytics and Knowledge Conference (LAK '25)_, pp. 418-428 [DOI](https://dl.acm.org/doi/10.1145/3706468.3706521)
+
 ### 2024
 [Hierarchical dependencies in classroom settings influence algorithmic bias metrics](/assets/papers/belitz-inpress-HJENZKMQ.pdf)
 **C. Belitz**, H. Lee, N. Nasiar, S. E. Fancsali, S. Ritter, H. Almoubayyed, R. S. Baker, J. Ocumpaugh, N. Bosch
