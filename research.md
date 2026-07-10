@@ -5,6 +5,8 @@ permalink: /research/
 Here you can find links to my past and ongoing research projects, as well as PDFs of published work.
 
 ## 2025
+[Investigating Algorithmic Bias in Affect Detectors with Constructed Categories of Student Identity](/assets/papers/affect_ICCE2025-vf_nn.pdf). N. Nasiar, Lee, H., **C. Belitz**, Stinar. F, R. Baker, J. Ocumpaugh, S. E. Fancsali, S. Ritter, N. Bosch. _Proceedings of the 33rd International Conference on Computers in Education. Asia-Pacific Society for Computers in Education_. pp. 1-10.
+
 [Strengthening our Resolve: AI ethical standards and resolving to make ethical AI decisions](/assets/papers/ALISE_2025_SIGSession_Stre.pdf) C.M. Pierson, A. Zalot, K. Jones, **C. Belitz**, J. Burgess, S. Lilley _Proceedings of the ALISE Annual Conference 2025_ pp. 1-2 [DOI](https://doi.org/10.21900/j.alise.2025.2035)
 
 [Fair for whom? Investigating school identity, algorithmic fairness, and educational technologies](/assets/papers/Belitz-2025-fair-for-whom.pdf) **C. Belitz** _Artificial Intelligence in Education. Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral Consortium, Blue Sky, and WideAIED_, pp. 291-296 [DOI](https://doi.org/10.1007/978-3-031-99261-2_26)
@@ -30,8 +32,7 @@ _Proceedings of the 14th International Conference on Learning Analytics & Knowle
 L. Jiang, **C. Belitz**, N. Bosch
 _Proceedings of the 14th International Conference on Learning Analytics & Knowledge (LAK '24)_,  pp 200–209. [DOI](https://doi.org/10.1145/3636555.3636868) 
 
-[Bridging Informational Divides: A Community-Centered Analysis of “Public
-Safety” Surveillance Technology](/assets/papers/alt-chi-147.pdf)
+[Bridging Informational Divides: A Community-Centered Analysis of “Public Safety Surveillance Technology](/assets/papers/alt-chi-147.pdf)
 G. Balasubramaniam\*, **C. Belitz**\*, A.S. Chan (*indicates equal contributions)
 _Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA '24)_, Article No.: 550. [DOI](https://doi.org/10.1145/3613905.3644046)
 
